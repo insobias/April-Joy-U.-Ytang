@@ -1,0 +1,28 @@
+div{
+    padding: 1%;
+}
+body{
+font-family: Montserrat;
+
+}
+h3,h4,h1,p,li{
+color: rgb(3, 3, 3);
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #020202;
+}
+li a {
+display: block;
+color: rgb(255, 255, 255);
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #665252;
+}
